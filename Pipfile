@@ -9,6 +9,7 @@ ipykernel = "*"
 [packages]
 scipy = "*"
 pulp = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.8"
